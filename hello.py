@@ -1,6 +1,6 @@
 name = "Luan"
 print("Hi, My name is " + name)
 
-a = 10
-b = 20
-print(a + b)
+dob = 2002
+today = 2025
+print("Age: " + str(today - dob))
